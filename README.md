@@ -15,14 +15,19 @@
 
 ### 📊 Minhas Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=THLEITE-777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=THLEITE-777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=THLEITE-777&layout=compact&langs_count=7&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=THLEITE-777&layout=compact&langs_count=7&theme=dracula)
 
 ![Sequência de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=THLEITE-777&theme=dracula)
+
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### 💻 No meu dia a dia eu uso:
+
+| Linguagens | Ferramentas de BI | Escritório & Automação |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) | ![PowerBI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=microsoftpowerbi) | ![Excel](https://img.shields.io/badge/-Excel-333?style=flat&logo=microsoftexcel) |
+| ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas) | ![VBA](https://img.shields.io/badge/-VBA-333?style=flat&logo=visualstudio) |
+
+
